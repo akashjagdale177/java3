@@ -48,12 +48,12 @@ h1{
 
 <body>
 
-<div class="container">
+<div class="Container">
       <h1>🚀 Vijay S kardak</h1>
     <h2>Welcome to Deployment Day</h2>
 
     <div class="version">
-        Version 1.0.0 LIVE
+        Version 1.0. LIVE
     </div>
 
     <div class="footer">
