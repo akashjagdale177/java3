@@ -1,11 +1,65 @@
 <html>
 <head>
-<title> Welcome to Deployment Day </title>
-</head>
-<body>
-<h1> Codingwale Vaijapur</h1>
-<h3 style="color:green"> - 1.0.0 lived</h3>
+<title>Welcome to Deployment Day</title>
 
+<style>
+body{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(135deg,#4facfe,#00f2fe);
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.container{
+    background:white;
+    padding:40px;
+    border-radius:12px;
+    box-shadow:0 10px 25px rgba(0,0,0,0.2);
+    text-align:center;
+    width:400px;
+}
+
+h1{
+    color:#333;
+    margin-bottom:10px;
+}
+
+.version{
+    color:white;
+    background:#28a745;
+    padding:10px 20px;
+    border-radius:20px;
+    display:inline-block;
+    font-weight:bold;
+    margin-top:15px;
+}
+
+.footer{
+    margin-top:20px;
+    color:#777;
+    font-size:14px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+      <h1>🚀 Vijay S kardak</h1>
+    <h2>Welcome to Deployment Day</h2>
+
+    <div class="version">
+        Version 1.0.0 LIVE
+    </div>
+
+    <div class="footer">
+      GitHub | Jenkins | nexus | Docker Container
+    </div>
+</div>
 
 </body>
 </html>
